@@ -1,0 +1,4 @@
+shared: 997
+prime: 71
+Alice: 463
+Bob:  821
