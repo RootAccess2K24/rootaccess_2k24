@@ -1,1 +1,1 @@
-FLAG: accessdenied{password123_swag}
+FLAG: rootaccess{password123_swag}
