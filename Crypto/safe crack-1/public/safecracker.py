@@ -8,7 +8,7 @@ def password_checker(password, encoded_key):
         return False
 
 # Example usage:
-encoded_key = "cGFzc3dvcmQxMjNfc3dhZw=="
+encoded_key = "eGlhYWV3emwxMjNfYWVpbw=="
 password = input("Enter password: ")
 
 if password_checker(password, encoded_key):
