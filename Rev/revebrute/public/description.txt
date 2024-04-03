@@ -1,0 +1,9 @@
+Title: Revebrute
+Category: Reverse engineering
+Difficulty: Easy
+
+
+Description: @Gumn4m1 run a ransomware attack on our system ! however we get the encryption methon. Now it's your turn ,but don't forget to Rock it!!
+flag format: rootaccess{flag_value}
+
+-@gumn4m1
