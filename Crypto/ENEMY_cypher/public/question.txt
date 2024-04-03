@@ -1,3 +1,3 @@
-Brim has intercepted a message from an enemy outpost, some of the messages had a high frequency 
-the last massage was: r_u_erehw_yltcaxe_wonk_i
+Brim has intercepted a message from an enemy outpost, Base 64, some of the messages had a high frequency 
+the last massage was: M3JAX3VfM3IzaHdfeWx0Y0B4M193MG5rXzE=
 Help Brim.
