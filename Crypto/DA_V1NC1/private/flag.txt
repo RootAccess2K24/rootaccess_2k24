@@ -1,1 +1,1 @@
-Flag: accessdenied{Snap5h0t_0f_Succe55}
+Flag: rootaccess{Snap5h0t_0f_Succe55}
