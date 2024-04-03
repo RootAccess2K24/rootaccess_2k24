@@ -1,0 +1,9 @@
+Title: Vfunc
+Category: Pwn/Binary Exploitation
+Difficulty: Easy
+
+Description: Only a true hacker can guess my random numbers !
+
+```nc <ip> <port>```
+
+-@gumn4m1
