@@ -1,0 +1,11 @@
+Title: Print_fsociety
+Category: PWN/Binary Exploitation
+Difficulty: Medium
+
+Description:
+
+I'm trying to make a pseudo shell for prank but during execution I noticed that I forgot to use proper format , have a look at my program , you may like it!
+
+``` nc <ip> <port> ```
+
+-@gumn4m1
