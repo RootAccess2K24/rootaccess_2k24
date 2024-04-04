@@ -11,10 +11,10 @@
 #define COLOR_WHITE   "\033[1;37m"
 
 int rand_num(){
-	int num = rand()%100;
-	return num;
+	time_t t1;
+	srand ( (unsigned) time (&t1));
+	return t1%100;
 }
-
 void flagp(){
 	char flag[64];
 	FILE *file = fopen("flag.txt","r");
